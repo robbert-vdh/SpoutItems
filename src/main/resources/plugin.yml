@@ -1,0 +1,5 @@
+name: SpoutItems
+version: 1.0
+main: me.coolblinger.spoutitems.SpoutItems
+author: coolblinger
+depends: Spout
